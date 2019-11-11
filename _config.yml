@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Taeyong Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Joint M.S and Ph. D Course, computer vision, image processing, deep learning"
+  location         : "Seoul, Republic of Korea"
+  email            : sty37@yonsei.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
